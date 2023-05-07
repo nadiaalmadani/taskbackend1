@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "fname": "esraa",
+        "lname": "mohamed",
+        "age": 30,
+        "city": "mansoura"
+    },
+    {
+        "id": 3,
+        "fname": "adel",
+        "lname": "mohamed",
+        "age": 25,
+        "city": "mansoura"
+    },
+    {
+        "id": 4,
+        "fname": "adel",
+        "lname": "mohamed",
+        "age": 25,
+        "city": "mansoura"
+    },
+    {
+        "id": 7,
+        "fname": "homam",
+        "lname": "madani",
+        "age": 25,
+        "city": "qaherah"
+    },
+    {
+        "id": 8,
+        "fname": "yamam",
+        "lname": "madani",
+        "age": 25,
+        "city": "damascus"
+    },
+    {
+        "id": 10,
+        "fname": "samih",
+        "lname": "madani",
+        "age": 36,
+        "city": "turkia"
+    }
+]
